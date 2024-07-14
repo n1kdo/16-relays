@@ -18456,7 +18456,7 @@
 		(descr "70553-0001-5")
 		(tags "Connector")
 		(property "Reference" "J3"
-			(at -1.27 6.006 -90)
+			(at -1.27 6.006 90)
 			(layer "F.SilkS")
 			(uuid "94097a39-f32a-41e1-bb84-f9a9d58cd4f4")
 			(effects
@@ -18467,7 +18467,7 @@
 			)
 		)
 		(property "Value" "POWER"
-			(at -1.27 6.006 -90)
+			(at -1.27 6.006 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f87c4314-2b87-49d3-b6c3-cfaeaf6e4a82")
@@ -18479,7 +18479,7 @@
 			)
 		)
 		(property "Footprint" "705530001"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0b3f3a1d-edf1-4d29-b323-47cd5a9465f1")
@@ -18491,7 +18491,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.it/datasheet/2/276/2/705530001_sd-1608007.pdf"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "978f8894-f9fb-48e3-8b57-fbe60a61994a")
@@ -18503,7 +18503,7 @@
 			)
 		)
 		(property "Description" "2 pin .156 header"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca94923f-534a-4cf0-8a1e-2866686c341b")
@@ -18743,7 +18743,7 @@
 			(uuid "a58738db-dc73-42d7-8878-75b75af90935")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.27 6.006 -90)
+			(at -1.27 6.006 90)
 			(layer "F.Fab")
 			(uuid "9fe733b4-43c1-47a5-b216-db3daf68d88f")
 			(effects
@@ -18775,7 +18775,7 @@
 			(pintype "passive")
 			(uuid "b8cabf0e-0934-46e1-ac89-cefbfda97b3a")
 		)
-		(model "70553-0001.stp"
+		(model "C:/Users/Jeff/Desktop/relays/LIB_70553-0001/70553-0001/3D/70553-0001.stp"
 			(offset
 				(xyz -1.269999962 -7.090000046 2.910000042)
 			)
@@ -32403,7 +32403,7 @@
 		(descr "70553-0116-2")
 		(tags "Connector")
 		(property "Reference" "J1"
-			(at 13.97 6.036 -90)
+			(at 13.97 6.036 90)
 			(layer "F.SilkS")
 			(uuid "dde640fb-e527-4029-ad45-54bdbde25341")
 			(effects
@@ -32414,7 +32414,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Socket"
-			(at 13.97 6.036 -90)
+			(at 13.97 6.036 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "906ef668-9699-4179-ac24-cfde8447e2b3")
@@ -32426,7 +32426,7 @@
 			)
 		)
 		(property "Footprint" "705530116"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62a47fc8-6613-468e-87df-f537a5656024")
@@ -32438,7 +32438,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/705/70553/705530116_sd.pdf?inline"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3d5fceb9-a0b0-46f7-91a9-fec096274f22")
@@ -32450,7 +32450,7 @@
 			)
 		)
 		(property "Description" "Headers & Wire Housings 2.54MM SR RA 12P HDR AU L-PRO SHRD"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c5103e2-6fa7-4bb3-bed2-0818715d012c")
@@ -32703,7 +32703,7 @@
 			(uuid "7dfadedd-29c3-41dd-af3b-760302279c5a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 13.97 6.036 -90)
+			(at 13.97 6.036 90)
 			(layer "F.Fab")
 			(uuid "3b61a352-36f6-406a-a003-e126f7519f87")
 			(effects
@@ -32845,15 +32845,15 @@
 			(pintype "passive")
 			(uuid "f5673c9d-8321-4739-bc30-9c8faef41dbe")
 		)
-		(model "70553-0116.stp"
+		(model "C:/Users/Jeff/Desktop/relays/LIB_70553-0116/70553-0116/3D/70553-0116.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 14 -7.5 3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -33306,15 +33306,15 @@
 			(pintype "passive")
 			(uuid "676e9d88-b744-4368-9c5d-66d7d07a5ece")
 		)
-		(model "70553-0116.stp"
+		(model "C:/Users/Jeff/Desktop/relays/LIB_70553-0116/70553-0116/3D/70553-0116.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 14 -7 3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
