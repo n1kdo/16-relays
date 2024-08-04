@@ -1,4 +1,4 @@
-
+./idea
 /16-relays-backups
-connectorz.bak
+*.bak
 Library.pretty/relays.bak
